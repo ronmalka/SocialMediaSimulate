@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Boost_Echo_Client" targetName="Boost_Echo_Client" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dce91dc9-56ae-4e93-9b09-8371bc90c4ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Boost_Echo_Client" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Boost_Echo_Client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Boost_Echo_Client.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Boost_Echo_Client.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/Task.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/Task.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/connectionHandler.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/connectionHandler.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/echoClient.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Boost_Echo_Client.dir/src/echoClient.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Task.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/META-INF/main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/FollowMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/FollowMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/LogoutMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/LogoutMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/PmMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/PmMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/PostMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/PostMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/UserListMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/Message/UserListMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ConnectionsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ConnectionsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/LineMessageEncoderDecoder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/LineMessageEncoderDecoder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/ReactorMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/impl/BGSServer/TPCMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/ActorThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/ActorThreadPool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/BaseServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/BaseServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/BlockingConnectionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/BlockingConnectionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/NonBlockingConnectionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/NonBlockingConnectionHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Reactor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Reactor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/../spl-net/out/production/main/bgu/spl/net/srv/bidi/Server.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="-660123288">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Boost_Echo_Client (disassembly)" value="3" />
+          <entry key="cpp" value="4" />
+          <entry key="h" value="2" />
+          <entry key="makefile" value="1" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CMakeLists.txt" value="1" />
+          <entry key="Disassembly" value="3" />
+          <entry key="ObjectiveC" value="6" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1077" />
+          <entry key="h" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1128" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-983740035">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="161" />
+          <entry key="h" value="287" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="448" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="2" />
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="928433779">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="6" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="1093" />
+          <entry key="h" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="1181" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-802216444">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cpp" value="160" />
+          <entry key="h" value="78" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="ObjectiveC" value="238" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cpp" value="2" />
+          <entry key="h" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="ObjectiveC" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-90526370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/echoClient.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="25" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/connectionHandler.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/include/Task.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/connectionHandler.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="192" column="17" lean-forward="true" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#43#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>line</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/include/connectionHandler.h" />
+        <option value="$PROJECT_DIR$/Task.h" />
+        <option value="$PROJECT_DIR$/Task.cpp" />
+        <option value="$PROJECT_DIR$/src/echoClient.cpp" />
+        <option value="$PROJECT_DIR$/src/connectionHandler.cpp" />
+        <option value="$PROJECT_DIR$/include/Task.h" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1301" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Boost_Echo_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boost_Echo_Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boost_Echo_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boost_Echo_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Boost_Echo_Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Boost_Echo_Client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Boost_Echo_Client">
+    <configuration name="Boost_Echo_Client" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="127.0.0.1 5000" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Boost_Echo_Client" TARGET_NAME="Boost_Echo_Client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Boost_Echo_Client" RUN_TARGET_NAME="Boost_Echo_Client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="127.0.0.1 500" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.Boost_Echo_Client" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dce91dc9-56ae-4e93-9b09-8371bc90c4ac" name="Default Changelist" comment="" />
+      <created>1546355111673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546355111673</updated>
+      <workItem from="1546355115724" duration="281000" />
+      <workItem from="1546356303023" duration="1747000" />
+      <workItem from="1546358768678" duration="1188000" />
+      <workItem from="1546360156519" duration="927000" />
+      <workItem from="1546361626510" duration="1232000" />
+      <workItem from="1546369433388" duration="1244000" />
+      <workItem from="1546370874476" duration="689000" />
+      <workItem from="1546373293862" duration="1490000" />
+      <workItem from="1546412604605" duration="2620000" />
+      <workItem from="1546421258713" duration="2224000" />
+      <workItem from="1546500155316" duration="1048000" />
+      <workItem from="1546503240465" duration="1976000" />
+      <workItem from="1546505408751" duration="1486000" />
+      <workItem from="1546507271619" duration="617000" />
+      <workItem from="1546535305959" duration="1681000" />
+      <workItem from="1546538174406" duration="1046000" />
+      <workItem from="1546540702476" duration="892000" />
+      <workItem from="1546542193754" duration="3655000" />
+      <workItem from="1546605940260" duration="4233000" />
+      <workItem from="1546612628264" duration="1170000" />
+      <workItem from="1546614711478" duration="1675000" />
+      <workItem from="1546620644654" duration="3159000" />
+      <workItem from="1546625231961" duration="3847000" />
+      <workItem from="1546639892084" duration="1031000" />
+      <workItem from="1546654410221" duration="366000" />
+      <workItem from="1546655144619" duration="387000" />
+      <workItem from="1546655589670" duration="973000" />
+      <workItem from="1546657454632" duration="1674000" />
+      <workItem from="1546659278155" duration="2159000" />
+      <workItem from="1546661773785" duration="2453000" />
+      <workItem from="1546664812816" duration="2478000" />
+      <workItem from="1546667446536" duration="1601000" />
+      <workItem from="1546669312486" duration="1921000" />
+      <workItem from="1546671836235" duration="1090000" />
+      <workItem from="1546673114752" duration="1863000" />
+      <workItem from="1546699858822" duration="2065000" />
+      <workItem from="1546767918353" duration="14428000" />
+      <workItem from="1546798157936" duration="796000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="80776000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30996016" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45807454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39751554" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32142857" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32972136" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/ext/string_conversions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="60" column="16" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/echoClient.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="25" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/connectionHandler.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/connectionHandler.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="192" column="17" lean-forward="true" selection-start-line="192" selection-start-column="17" selection-end-line="192" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#43#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Task.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
